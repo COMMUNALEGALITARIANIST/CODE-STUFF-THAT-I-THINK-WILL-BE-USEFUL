@@ -3,7 +3,7 @@
 # some codes to copy
 <div/>
 
-this will show the code version: 
+this will show the code version: https://github.com/COMMUNALEGALITARIANIST/CODE-STUFF-THAT-I-THINK-WILL-BE-USEFUL/blob/main/README.md?plain=1
 
 <div align="center">
   <details>
