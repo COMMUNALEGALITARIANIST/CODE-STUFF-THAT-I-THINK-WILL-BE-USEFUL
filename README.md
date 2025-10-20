@@ -7,7 +7,7 @@ this will show the code version: https://github.com/COMMUNALEGALITARIANIST/CODE-
 
 <div align="center">
   <details>
-        <summary> STAMPS & BLINKIES </summary>
+        <summary> THIS IS A COLLAPSED TEXT </summary>
         [text here] 
     to close the code, just type </ and the rest will come
   </details>
